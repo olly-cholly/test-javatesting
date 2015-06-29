@@ -10,9 +10,9 @@ public class AlsoUserGroupCreating extends TestBase {
     openGroupPage();
     initGroupCreation();
     GroupData group = new GroupData();
-    group.name = "group name 4";
-    group.header = "group header 4";
-    group.footer = "group footer 4";
+    group.name = "group name Test2";
+    group.header = "group header Test2";
+    group.footer = "group footer Test2";
 	fillGroupForm(group);
     submitGroupCreation();
     returnMainPage();

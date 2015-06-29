@@ -1,0 +1,38 @@
+package com.example.tests;
+
+import org.testng.annotations.Test;
+
+public class ContactCreation extends TestBase {
+  @Test
+  public void nonEmptyContactCreation() throws Exception {
+    openMainPage();
+    initContactCreation();
+    ContactData contact = new ContactData();
+    contact.firstname = "name";
+    contact.lastname = "lastname";
+    contact.address1 = "address1";
+    contact.home = "home";
+    contact.mobile = "mobile";
+    contact.work = "work";
+    contact.email1 = "email1";
+    contact.email2 = "email2";
+    contact.bday = "1";
+    contact.bmonth = "January";
+    contact.byear = "1985";
+    contact.group = "group name 1";
+    contact.address2 = "address2";
+    contact.phone = "phone";    
+	fillContactForm(contact);
+    submitContactCreation();
+    returnToMainPage();
+  }
+  
+  @Test
+  public void emptyContactCreation() throws Exception {
+    openMainPage();
+    initContactCreation();
+    fillContactForm(new ContactData("", "", "", "", "", "", "", "", "-", "-", "", "", "", ""));
+    submitContactCreation();
+    returnToMainPage();
+  }
+}

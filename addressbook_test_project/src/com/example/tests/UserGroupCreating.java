@@ -9,9 +9,9 @@ public class UserGroupCreating extends TestBase {
     openGroupPage();
     initGroupCreation();
     GroupData group = new GroupData();
-    group.name = "group name 5";
-    group.header = "group header 5";
-    group.footer = "group footer 5";
+    group.name = "group name Test1";
+    group.header = "group header Test1";
+    group.footer = "group footer Test1";
 	fillGroupForm(group);
     submitGroupCreation();
     returnMainPage();
