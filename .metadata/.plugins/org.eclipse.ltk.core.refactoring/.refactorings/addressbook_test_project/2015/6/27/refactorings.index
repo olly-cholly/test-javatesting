@@ -26,3 +26,18 @@
 1435607118852	Introduce Parameter Object
 1435607466136	Extract local variable 'contact'
 1435609087788	Pull up members to 'TestBase'
+1435614318050	Rename package 'com.example.fm'
+1435614601447	Move method 'returnMainPage'
+1435614743946	Move method 'submitGroupCreation'
+1435614779148	Move method 'initGroupCreation'
+1435614854134	Move method 'fillGroupForm'
+1435614863444	Move method 'openGroupPage'
+1435614877214	Move method 'openMainPage'
+1435614901423	Move method 'isElementPresent'
+1435614916791	Move method 'isAlertPresent'
+1435614925166	Move method 'closeAlertAndGetItsText'
+1435614936763	Move method 'returnToMainPage'
+1435614946912	Move method 'submitContactCreation'
+1435614957859	Move method 'fillContactForm'
+1435614967197	Move method 'initContactCreation'
+1435616827916	Delete element

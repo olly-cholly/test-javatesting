@@ -1,0 +1,30 @@
+package com.example.tests;
+
+import org.testng.annotations.Test;
+
+public class AlsoUserGroupCreating extends TestBase {
+ 
+  @Test
+  public void nonEmptyUserGroupCreation() throws Exception {
+	app.navigationHelper.openMainPage();
+    app.navigationHelper.openGroupPage();
+    app.initGroupCreation();
+    GroupData group = new GroupData();
+    group.name = "group name Test2";
+    group.header = "group header Test2";
+    group.footer = "group footer Test2";
+	app.fillGroupForm(this, group);
+    app.submitGroupCreation();
+    app.navigationHelper.returnMainPage();
+  }
+  
+  @Test
+  public void emptyUserGroupCreation() throws Exception {
+	  app.navigationHelper.openMainPage();
+	  app.navigationHelper.openGroupPage();
+	  app.initGroupCreation();
+	  app.fillGroupForm(this, new GroupData("", "", ""));
+	  app.submitGroupCreation();
+	  app.navigationHelper.returnMainPage();
+  }
+}
