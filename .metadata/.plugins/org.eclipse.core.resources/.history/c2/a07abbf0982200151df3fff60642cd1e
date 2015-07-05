@@ -1,0 +1,30 @@
+package com.example.tests;
+
+import org.testng.annotations.Test;
+
+public class ContactModificationTests extends TestBase{
+	
+	@Test		
+	public void modifySomeContact() {
+		app.getNavigationHelper().returnToMainPage();
+		app.getContactHelper().initContactModification(1);
+		ContactData contact = new ContactData();
+		contact.firstname = "new first name";
+		contact.lastname = "new last name";
+		contact.firstname = "new firstname";
+		contact.home = "new home";
+		contact.mobile = "new mobile";
+		contact.work = "new work";
+		contact.email1 = "new email1";
+		contact.email2 = "new email2";
+		contact.bday = "-";
+		contact.bmonth = "-";
+		contact.byear = "2000";
+		contact.group = "new group";
+		contact.address2 = "new address2";
+		contact.phone = "new phone";
+		app.getContactHelper().submitContact(1);
+	    app.getContactHelper().returnToHomePage();
+	}
+
+}

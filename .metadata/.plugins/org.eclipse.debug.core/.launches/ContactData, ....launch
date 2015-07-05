@@ -6,8 +6,12 @@
 <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
 <listEntry value="com.example.tests.UserGroupCreating"/>
 <listEntry value="com.example.tests.TestBase"/>
+<listEntry value="com.example.tests.ContactRemovalTests"/>
+<listEntry value="com.example.tests.ContactModificationTests"/>
 <listEntry value="com.example.tests.AlsoUserGroupCreating"/>
+<listEntry value="com.example.tests.GroupRemovalTests"/>
 <listEntry value="com.example.tests.ContactCreation"/>
+<listEntry value="com.example.tests.GroupModificationTests"/>
 <listEntry value="com.example.tests.ContactData"/>
 <listEntry value="com.example.tests.GroupData"/>
 </listAttribute>

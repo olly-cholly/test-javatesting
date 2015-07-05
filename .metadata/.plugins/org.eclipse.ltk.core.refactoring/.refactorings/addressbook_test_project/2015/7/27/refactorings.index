@@ -27,3 +27,5 @@
 1436038572127	Inline local variable 'locator'
 1436038578599	Inline local variable 'text'
 1436042179568	Extract method 'selectGroupByIndex'
+1436045846415	Rename method 'initContactRemoval'
+1436045888889	Rename method 'initModificationContact'
