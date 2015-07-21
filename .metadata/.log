@@ -1543,3 +1543,916 @@ java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 61493 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1007372550\testng-customsuite.xml
 java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61493 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1007372550\testng-customsuite.xml
+!SESSION 2015-07-15 22:27:55.505 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_76
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-07-15 22:28:07.076
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-15 22:28:24.261
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-15 22:28:24.264
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Olga'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:31:11.653
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:31:16.047
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59659 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-917413146\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 59659 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-917413146\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:32:00.545
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:32:00.575
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 59816 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2120214829\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 59816 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2120214829\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:37:48.555
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:37:48.580
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60039 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2107314141\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 60039 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2107314141\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:40:56.366
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:40:56.391
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60215 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-236823514\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 60215 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-236823514\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:55:58.012
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 22:55:58.037
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60606 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-124764705\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 60606 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-124764705\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:00:06.461
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:00:07.918
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60730 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--973528651\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 60730 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--973528651\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:03:05.199
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:03:06.623
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60851 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1464808669\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 60851 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1464808669\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:05:02.737
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:05:02.762
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60954 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-584115498\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 60954 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-584115498\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:09:27.376
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:09:27.401
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61179 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--975688836\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61179 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--975688836\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:11:57.155
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61270 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1091029013\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61270 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1091029013\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:18:58.881
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.Collections
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:18:58.905
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61474 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1591186138\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61474 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1591186138\testng-customsuite.xml
+
+!ENTRY org.eclipse.jdt.debug.ui 4 4 2015-07-21 23:20:41.874
+!MESSAGE Invalid stack frame
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:21:04.856
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61587 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1306272738\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61587 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1306272738\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:22:40.910
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61704 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--756260491\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61704 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--756260491\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:23:55.154
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61836 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--366201727\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61836 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--366201727\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:25:25.760
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.Collections
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:25:25.783
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 61970 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1973743928\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 61970 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1973743928\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:30:31.075
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] UserGroupCreating.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import java.util.Collections
+  import java.util.List
+  import org.testng.Assert.assertEquals
+  import org.testng.annotations.Test
+  class UserGroupCreating
+    void nonEmptyUserGroupCreation()
+    void emptyUserGroupCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:30:31.100
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62138 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1381511667\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 62138 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1381511667\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:36:21.275
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62385 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-972593106\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 62385 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-972593106\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:38:56.092
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62480 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1694438653\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 62480 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1694438653\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-21 23:54:48.962
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62868 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1133015308\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 62868 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1133015308\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:10:59.019
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63100 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1161451989\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 63100 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1161451989\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:12:25.335
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63140 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2055300304\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 63140 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2055300304\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:18:27.187
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupRemovalTests.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.Collections
+  import java.util.List
+  import java.util.Random
+  import org.testng.annotations.Test
+  class GroupRemovalTests
+    void deleteSomeGroup()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:18:27.207
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63607 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2077071449\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 63607 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2077071449\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:19:13.539
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63693 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--874909292\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 63693 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--874909292\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:19:33.762
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupRemovalTests.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.Collections
+  import java.util.List
+  import java.util.Random
+  import org.testng.annotations.Test
+  class GroupRemovalTests
+    void deleteSomeGroup()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:19:33.782
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63776 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1279345772\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 63776 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1279345772\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:20:43.180
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupModificationTests.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.Collections
+  import java.util.List
+  import java.util.Random
+  import org.testng.annotations.Test
+  class GroupModificationTests
+    void modifySomeGroup()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:20:43.205
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63865 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2125404514\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 63865 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2125404514\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:25:33.956
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupModificationTests.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.Collections
+  import java.util.List
+  import java.util.Random
+  import org.testng.annotations.Test
+  class GroupModificationTests
+    void modifySomeGroup(GroupData)
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:25:33.976
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64038 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--597734674\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 64038 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--597734674\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:28:03.041
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] GroupModificationTests.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.Collections
+  import java.util.List
+  import java.util.Random
+  import org.testng.annotations.Test
+  class GroupModificationTests
+    void modifySomeGroup(GroupData)
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 00:28:04.511
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 64441 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1581866200\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 64441 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1581866200\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:16:54.338
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65430 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-282564231\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 65430 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-282564231\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:21:05.144
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreation.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.List
+  import org.testng.annotations.Test
+  class ContactCreation
+    void nonEmptyContactCreation()
+    void emptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:21:05.189
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 65517 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1324210117\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 65517 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1324210117\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:26:27.319
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49387 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2054945883\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 49387 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2054945883\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:31:33.948
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:[Working copy] ContactCreation.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.Assert.assertEquals
+  import java.util.List
+  import org.testng.annotations.Test
+  class ContactCreation
+    void nonEmptyContactCreation()
+    void emptyContactCreation()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:31:33.968
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49592 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2076721684\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 49592 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2076721684\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:34:40.400
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49741 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--732867502\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 49741 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--732867502\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:39:19.891
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49882 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--991035659\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 49882 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--991035659\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:40:10.659
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50045 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1513572412\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 50045 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1513572412\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:43:46.704
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50195 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1603588201\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 50195 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1603588201\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:45:28.895
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50344 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-756262338\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 50344 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-756262338\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:46:42.251
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50566 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1719932451\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 50566 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1719932451\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:48:07.867
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50719 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-996912646\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 50719 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-996912646\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 01:48:41.040
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 50874 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1016580813\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 50874 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1016580813\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:03:19.806
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51193 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--914188215\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 51193 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--914188215\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:04:01.153
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51353 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--622335654\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 51353 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--622335654\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:08:09.827
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51562 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2111875564\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 51562 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2111875564\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:16:01.653
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51784 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1401204822\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 51784 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1401204822\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:18:06.401
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51945 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1653664686\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 51945 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1653664686\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:19:17.977
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52105 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1285571724\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52105 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1285571724\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:04.210
+!MESSAGE [TestNGLaunchShortcut] Examining Java element:ContactRemovalTests.java [in com.example.tests [in src [in addressbook_test_project]]]
+  package com.example.tests
+  import org.testng.annotations.Test
+  class ContactRemovalTests
+    void deleteSomeContact()
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:04.240
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52287 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1865952490\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52287 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1865952490\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:13.662
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52323 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-193238948\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52323 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-193238948\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:30.365
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52359 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1588520705\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52359 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1588520705\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:36.822
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52394 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1724737140\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52394 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1724737140\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:43.366
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52426 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--471424906\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52426 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--471424906\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:21:51.030
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52460 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-887138785\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52460 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-887138785\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:01.410
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52495 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-854465777\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52495 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-854465777\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:08.414
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52530 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1505984050\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52530 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1505984050\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:15.929
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52567 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-92662954\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52567 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-92662954\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:22.313
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52599 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-146158376\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52599 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-146158376\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:35.370
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52632 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--350705696\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52632 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--350705696\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:42.123
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52665 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1052488867\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52665 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1052488867\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:49.078
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52700 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--982848139\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52700 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--982848139\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:22:56.421
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52733 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-277604582\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52733 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-277604582\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:24:49.133
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52794 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-358972134\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52794 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-358972134\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:05.843
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52838 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1476264795\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52838 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1476264795\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:16.260
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52873 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-103529513\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52873 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-103529513\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:23.044
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52905 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-295149790\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52905 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-295149790\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:29.684
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52937 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2047696354\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52937 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2047696354\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:38.635
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52970 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1209972584\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 52970 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1209972584\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:48.104
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53004 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-822671180\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53004 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-822671180\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:25:55.300
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53042 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--772903290\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53042 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--772903290\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:26:01.613
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53081 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--285795858\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53081 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--285795858\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:26:16.049
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53123 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1175895861\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53123 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1175895861\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:31:13.267
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53250 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--128773979\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53250 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--128773979\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:32:04.631
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53359 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2037635866\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53359 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--2037635866\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:32:11.225
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53396 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--377813787\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53396 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--377813787\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:32:18.113
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53428 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--188502004\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53428 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--188502004\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:32:34.164
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53463 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-886333181\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53463 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-886333181\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:32:47.431
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53503 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1066267487\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53503 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1066267487\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:33:53.788
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53607 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2130934576\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53607 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-2130934576\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:34:00.106
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53643 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--72537699\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53643 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--72537699\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:34:18.577
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53681 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-975949027\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53681 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-975949027\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:35:24.354
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53797 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-681859660\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53797 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-681859660\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:36:55.166
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53919 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1881276868\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53919 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1881276868\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:39:35.021
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53956 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1667923474\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 53956 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1667923474\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:44:59.178
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54097 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1146345869\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 54097 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1146345869\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:49:51.699
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54304 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1227568524\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 54304 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse-1227568524\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:51:31.834
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54363 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1483202016\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 54363 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1483202016\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-07-22 02:51:51.345
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54756 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1457023766\testng-customsuite.xml
+java -ea -classpath C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\bin:D:\Olly's documents\Distributives\Selenium\selenium-server-standalone-2.46.0.jar org.testng.remote.RemoteTestNG -serport 54756 -d C:\Users\Olga\Documents\GitHub\test-javatesting\addressbook_test_project\test-output C:\Users\Olga\AppData\Local\Temp\testng-eclipse--1457023766\testng-customsuite.xml
