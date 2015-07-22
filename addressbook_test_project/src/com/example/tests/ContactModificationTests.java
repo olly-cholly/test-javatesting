@@ -5,27 +5,26 @@ import static org.testng.Assert.assertEquals;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 
 import org.testng.annotations.Test;
 
 public class ContactModificationTests extends TestBase {
 	
-	@Test		
-	public void modifySomeContact() {
+	@Test(dataProvider = "randonValidContactGenerator")	
+	public void modifySomeContact(ContactData contact) {
 		app.getNavigationHelper().returnToMainPage();
 		
 	    //save old state
 	    List<ContactData> oldList = app.getContactHelper().getContacts();
 	      
+	    Random rnd = new Random();
+	    int index = rnd.nextInt(oldList.size()-1);
+	    
 	    //actions
 		app.getContactHelper().initContactModification(0);
-		ContactData contact = new ContactData();
-		contact.firstname = "123";
-		contact.lastname = "321";
-		contact.bday = "13";
-		contact.bmonth = "March";
 		app.getContactHelper().fillContactForm(contact);
-		app.getContactHelper().submitContact(0);
+		app.getContactHelper().submitContact(index);
 	    app.getContactHelper().returnToHomePage();
 	    
 	    //save new state
