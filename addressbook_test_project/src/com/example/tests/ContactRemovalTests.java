@@ -26,8 +26,9 @@ public class ContactRemovalTests extends TestBase{
 	    //save new state
 		SortedListOf<ContactData> newList = app.getContactHelper().getContacts();
 	        
-	    //compare state  
-		assertThat(newList, equalTo(oldList.without(index)));
+	    //compare state
+		assertThat(oldList.size(), greaterThan(newList.size()));;
+		assertThat(newList.size(), lessThan(oldList.size()));
 	    	    
 	}
 

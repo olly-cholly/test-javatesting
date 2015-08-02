@@ -20,8 +20,6 @@ public class ContactHelper extends HelperBase{
 	
 	private SortedListOf<ContactData> cachedContacts;
 	
-	
-	
 	public SortedListOf<ContactData> getContacts() {
 		if (cachedContacts == null) {
 			rebuildCache();
@@ -125,7 +123,8 @@ public class ContactHelper extends HelperBase{
 	}
 
 	public ContactHelper initContactModification(int index) {
-	click(By.xpath("//tr[2]//img[@title = 'Edit'][" + (index+1) + "]"));
+	click(By.xpath("//tr[2]//img[@title = 'Edit']"));
+	//[" + (index+1) + "]"
 	return this;
 	
 	}

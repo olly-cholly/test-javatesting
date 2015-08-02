@@ -8,7 +8,7 @@ import com.example.utils.SortedListOf;
 
 public class UserGroupCreating extends TestBase {
 	
-	@Test(dataProvider = "randomValidGroupGenerator")
+	@Test(dataProvider = "randonValidGroupGenerator")
 	public void userGroupCreationWithValidData(GroupData group) throws Exception {
     
     //save old state
