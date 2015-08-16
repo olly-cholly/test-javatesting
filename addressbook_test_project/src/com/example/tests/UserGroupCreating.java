@@ -2,6 +2,7 @@ package com.example.tests;
 
 
 import static com.example.tests.GroupDataGenerator.loadGroupsFromCsvFile;
+import static com.example.tests.GroupDataGenerator.loadGroupsFromXmlFile;
 import static org.junit.Assert.assertThat;
 import static org.hamcrest.Matchers.*;
 import java.io.File;
@@ -15,7 +16,7 @@ public class UserGroupCreating extends TestBase {
 	
 	@DataProvider
 	public Iterator<Object[]> groupsFromFile() throws IOException {
-		return wrapGroupForDataProvidor(loadGroupsFromCsvFile(new File("groups.txt"))).iterator();
+		return wrapGroupForDataProvidor(loadGroupsFromXmlFile(new File("groups.xml"))).iterator();
 	}
 		
 	@Test(dataProvider = "groupsFromFile")
